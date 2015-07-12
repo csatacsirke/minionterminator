@@ -12,10 +12,18 @@ var tabs = require("sdk/tabs");
 
 var enabledIconName = "icon";
 var disabledIconName = "icoff";
-var iconName = enabledIconName;
+
 
 var ssApi = require("sdk/simple-storage");
 var storage = ssApi.storage;
+
+
+if(storage.isEnabled === undefined) {
+	storage.isEnabled = true;
+}
+
+var isEnabled = storage.isEnabled;
+var iconName = isEnabled ? enabledIconName : disabledIconName;
 
 var button = buttons.ActionButton({
 	id: "csirke-minion-terminator",
@@ -30,14 +38,10 @@ var button = buttons.ActionButton({
 
 
 
-if(storage.isEnabled === undefined) {
-	storage.isEnabled = true;
-}
-
-var isEnabled = storage.isEnabled;
 
 function handleClick(state) {
 	isEnabled = !isEnabled;
+	storage.isEnabled = isEnabled;
 	iconName = isEnabled ? enabledIconName : disabledIconName;
 	button.icon = {
 		"16": "./" + iconName + "-16.png",
