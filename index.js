@@ -58,9 +58,9 @@ function runMyScript(tab) {
 // Listen for tab loadings.
 tabs.on('load', function onOpen(tab) {
 	if(isEnabled) {
-		// if(tab.url.indexOf("facebook") > -1) {
+		if(tab.url.indexOf("facebook") > -1) {
 			runMyScript(tab);
-		// }
+		}
 		
 	}
 });
