@@ -55,7 +55,12 @@ function removeMinions() {
 			
 			var index = div.style.backgroundImage.indexOf(disgustingUrl);
 			if(index > -1) {
+				// kidobjuk az azonosítót amit a script fel tud ismerni az animációhoz
+				div.dataReactid = ""; 
+				// beállítunk egy szép hátteret
 				div.style.backgroundImage = lovelyUrl;
+				div.style.backgroundSize = div.style.width + "px " + div.style.height + "px";
+				
 			}
 			
 		}

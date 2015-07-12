@@ -59,10 +59,11 @@ function runMyScript(tab) {
 	});
 }
 
+var onlyFacebook = true;
 // Listen for tab loadings.
 tabs.on('load', function onOpen(tab) {
 	if(isEnabled) {
-		if(tab.url.indexOf("facebook") > -1) {
+		if( !onlyFacebook || (tab.url.indexOf("facebook") > -1) ) {
 			runMyScript(tab);
 		}
 		
