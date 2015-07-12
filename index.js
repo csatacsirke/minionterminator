@@ -32,7 +32,7 @@ function handleClick(state) {
 	}
 }
 
-var tabs = require("sdk/tabs");
+//var tabs = require("sdk/tabs");
 
 
 function runMyScript(tab) {

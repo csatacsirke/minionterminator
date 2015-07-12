@@ -1,8 +1,8 @@
 {
-  "title": "My Jetpack Addon",
-  "name": "mymozillaaddon",
+  "title": "Minion Terminator ",
+  "name": "minionterminator",
   "version": "0.0.1",
-  "description": "A basic add-on",
+  "description": "Changes minions on FB to BEER",
   "main": "index.js",
   "author": "me",
   "engines": {
