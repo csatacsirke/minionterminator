@@ -20,7 +20,7 @@ https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtf1/t39.1997-6/p600x600/11404846
 https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtf1/t39.1997-6/p480x480/11404908_1598358117094157_1838212288_n.png
 https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xft1/t39.1997-6/s720x720/11414367_1605075793089056_1905798497_n.png
 */
-
+alert("lofasz");
 
 var disgustingUrls = [
 "11405169_1598410653755570_505853584_n.png" ,

@@ -1,6 +1,6 @@
 {
   "title": "Minion Terminator ",
-  "name": "minionterminator",
+  "name": "mymozillaaddon",
   "version": "0.0.1",
   "description": "Changes minions on FB to BEER",
   "main": "index.js",

@@ -1,3 +1,12 @@
+var self = require('sdk/self');
+// a dummy function, to show how tests work.
+// to see how to test this function, look at test/test-index.js
+function dummy(text, callback) {
+  callback(text);
+}
+
+exports.dummy = dummy; 
+
 var buttons = require('sdk/ui/button/action');
 var tabs = require("sdk/tabs");
 
@@ -5,6 +14,8 @@ var enabledIconName = "icon";
 var disabledIconName = "icoff";
 var iconName = enabledIconName;
 
+var ssApi = require("sdk/simple-storage");
+var storage = ssApi.storage;
 
 var button = buttons.ActionButton({
 	id: "csirke-minion-terminator",
@@ -19,9 +30,12 @@ var button = buttons.ActionButton({
 
 
 
+if(storage.isEnabled === undefined) {
+	storage.isEnabled = true;
+}
 
+var isEnabled = storage.isEnabled;
 
-var isEnabled = true;
 function handleClick(state) {
 	isEnabled = !isEnabled;
 	iconName = isEnabled ? enabledIconName : disabledIconName;
@@ -44,7 +58,10 @@ function runMyScript(tab) {
 // Listen for tab loadings.
 tabs.on('load', function onOpen(tab) {
 	if(isEnabled) {
-		runMyScript(tab);
+		// if(tab.url.indexOf("facebook") > -1) {
+			runMyScript(tab);
+		// }
+		
 	}
 });
 
