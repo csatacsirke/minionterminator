@@ -19,7 +19,73 @@ https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xta1/t39.1997-6/s600x600/11409241
 https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtf1/t39.1997-6/p600x600/11404846_1605075633089072_358094530_n.png
 https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtf1/t39.1997-6/p480x480/11404908_1598358117094157_1838212288_n.png
 https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xft1/t39.1997-6/s720x720/11414367_1605075793089056_1905798497_n.png
+
+despicable me 2 lófaszok
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/s851x315/10173496_325426877606536_36284773_n.png"); background-size: 380px 304px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfp1/t39.1997-6/p240x240/10333099_325426857606538_1458718979_n.png"); background-size: 304px 228px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfp1/t39.1997-6/p240x240/10333099_325426857606538_1458718979_n.png"); background-size: 304px 228px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/s851x315/851592_325426860939871_524462994_n.png"); background-size: 380px 304px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -82px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfp1/t39.1997-6/s851x315/10333117_325426850939872_817834736_n.png"); background-size: 380px 304px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/s851x315/10333100_325426867606537_1608925729_n.png"); background-size: 380px 304px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image: url("https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xat1/t39.1997-6/s851x315/10173508_325426854273205_139146328_n.png"); background-size: 380px 304px; cursor: pointer; height: 64px; width: 64px; background-position: -6px -6px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851556_213405862141972_398735060_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851578_213405768808648_355969938_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851561_213405842141974_886184514_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851564_216114235204468_1251808134_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851564_216114235204468_1251808134_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851581_213405835475308_1019613640_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851575_213405915475300_548980979_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851557_216114225204469_504010371_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851580_213405762141982_1245940112_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851562_213405855475306_892917952_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851565_213405748808650_2073580981_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851579_213405785475313_1189731166_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851576_213405742141984_850021225_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851581_213405815475310_2139477377_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851584_213405808808644_1273310368_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851580_213405735475318_844997148_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851584_213405905475301_992858851_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.1997-6/p64x64/851576_213405725475319_613419333_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+background-image:url(https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xfa1/t39.1997-6/p64x64/851577_213405822141976_2062881938_n.png);background-repeat:no-repeat;background-size:64px 64px;cursor:pointer;height:64px;width:64px;
+
+
+
+
+
 */
+
+
+
+
+
+
+
 
 
 var disgustingUrls = [
@@ -36,6 +102,40 @@ var disgustingUrls = [
 "11404846_1605075633089072_358094530_n.png" ,
 "11404908_1598358117094157_1838212288_n.png",
 "11414367_1605075793089056_1905798497_n.png",
+// ----------------------------
+"10173496_325426877606536_36284773_n.pn",
+"10333099_325426857606538_1458718979_n.",
+"10333099_325426857606538_1458718979_n.",
+"851592_325426860939871_524462994_n.png",
+"10333117_325426850939872_817834736_n.p",
+"10333100_325426867606537_1608925729_n.",
+"10173508_325426854273205_139146328_n.p",
+"10173496_325426877606536_36284773_n.pn",
+"10333099_325426857606538_1458718979_n.",
+"10333099_325426857606538_1458718979_n.",
+"851592_325426860939871_524462994_n.png",
+"10333117_325426850939872_817834736_n.p",
+"10333100_325426867606537_1608925729_n.",
+"10173508_325426854273205_139146328_n.p",
+"851556_213405862141972_398735060_n.png",
+"851578_213405768808648_355969938_n.png",
+"851561_213405842141974_886184514_n.png",
+"851564_216114235204468_1251808134_n.pn",
+"851564_216114235204468_1251808134_n.pn",
+"851581_213405835475308_1019613640_n.pn",
+"851575_213405915475300_548980979_n.png",
+"851557_216114225204469_504010371_n.png",
+"851580_213405762141982_1245940112_n.pn",
+"851562_213405855475306_892917952_n.png",
+"851565_213405748808650_2073580981_n.pn",
+"851579_213405785475313_1189731166_n.pn",
+"851576_213405742141984_850021225_n.png",
+"851581_213405815475310_2139477377_n.pn",
+"851584_213405808808644_1273310368_n.pn",
+"851580_213405735475318_844997148_n.png",
+"851584_213405905475301_992858851_n.png",
+"851576_213405725475319_613419333_n.png",
+"851577_213405822141976_2062881938_n.pn",
 "/stickers/"
 ];
 
